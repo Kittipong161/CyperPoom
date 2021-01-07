@@ -71,3 +71,14 @@ button:hover
     font: normal bold 39px/40px Arial, Helvetica, sans-serif;
 }
 
+
+.navbar_fixed{
+    position: fixed;
+    width: 100%;
+    top: -1px;
+    left: 0; right: 0;
+    background: #ffffff;
+    box-shadow: var(--box-shadow);
+    z-index: 999;
+    transition: background 1s ease;
+}
