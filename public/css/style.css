@@ -117,6 +117,10 @@
     cursor: pointer;
     transition: transform.4s ease;
 }
+.img-fluid{
+    border-radius: 30px;
+    border:  2px solid royalblue;
+}
 
 
 .site-main .brand-area .first-row .col-lg-4 > .single-brand >img{
